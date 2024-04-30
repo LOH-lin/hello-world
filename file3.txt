@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file3(branch master).
+=======
+this is file3 (branch week1).
+>>>>>>> week1
